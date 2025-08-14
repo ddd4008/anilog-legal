@@ -1,2 +1,2 @@
-# anipura-legal
+# anilog-legal
 アニプラアプリのプライバシーポリシーと利用規約
